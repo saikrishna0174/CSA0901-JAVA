@@ -1,0 +1,3 @@
+
+Store C,1500
+Store D,2500
